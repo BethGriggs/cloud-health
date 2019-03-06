@@ -1,4 +1,7 @@
 # Cloud Health
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/CloudNativeJS/cloud-health.svg)](https://greenkeeper.io/)
+
 <p align=center>
 <a href='http://CloudNativeJS.io/'><img src='https://img.shields.io/badge/homepage-CloudNativeJS-blue.svg'></a>
 <a href="http://travis-ci.org/CloudNativeJS/cloud-health"><img src="https://secure.travis-ci.org/CloudNativeJS/cloud-health.svg?branch=master" alt="Build status"></a>
